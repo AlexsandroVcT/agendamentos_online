@@ -37,22 +37,7 @@ git clone https://github.com/eduardoplnascimento/medmazza.git
 ```
 
 - Entre no diretório **medmazza**.
-- Copie o arquivo .env.example e nomeie .env:
 
-```
-cp .env.example .env
-```
-
-- Configurar o arquivo .env com as suas informações:
-
-```
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=medmazza
-DB_USERNAME=seu_usuario
-DB_PASSWORD=sua_senha
-```
 
 - Rodar o comando para instalação (pode demorar alguns minutos):
 
