@@ -28,7 +28,6 @@ Laravel 6.x
 
 ```
 CREATE DATABASE medmazza;
-GRANT ALL PRIVILEGES ON medmazza . * TO 'seu_usuario'@'localhost';
 ```
 
 - Clone o projeto para sua máquina (coloque na pasta do seu servidor WEB):
